@@ -12,7 +12,7 @@ title: Mac OS X Installation
 
 To quote the NVM instructions:
 
-> On OSX, if you get `nvm: command not found` after running the install script, your system may not have a [.bash_profile file] where the command is set up. Simple create one with touch ~/.bash_profile and run the install script again.
+> On OSX, if you get `nvm: command not found` after running the install script, your system may not have a [.bash_profile file] where the command is set up. Simply create one with touch ~/.bash_profile and run the install script again.
 
 #### Alternative method using brew
 Download npm and node using brew. See: [brew](http://brew.sh/)
